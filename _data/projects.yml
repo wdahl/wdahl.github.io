@@ -1,13 +1,13 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
+- name: Multi-View Knowldge Model
+  description: A Java implementation of the Multi-view Knowldge Model to pridct studeten sucess on quizzes and suggest new leanring material for the student
 
-- name: Project 2
-  description: A few sentences describing your project.
+- name: Distributed Job Submitter
+  description: A Django Implementation of a job submitting site that allows users to upload large files of numbers to sort, distributes chunks of the file to connected client machnies and then sorts the file using merge sort. Returns each chunk mach to the Manager server and gives the user a downloable sorted file.
 
-- name: Project 3
-  description: A few sentences describing your project.
+- name: TDA Crime Rate Prediction
+  description: Python Implimentation using Topological Data Analysis to predict crime rates by neighborhood in Boston given a specific day of the year
 
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Emoji Recommender
+  description: Python Implenetation of an Emoji Recomeneder that recomends an emoji to attach to the end of a message using natural language processing and sentimate anaylsis.

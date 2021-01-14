@@ -1,36 +1,22 @@
-header: Say something about what you're good at
+header: Great at Software Development, Machine Learning, and Data Science
 
-subheader: Give some more context
+subheader: I have been merging the three for over 5 years.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Java
+    description: Proficent at developing Object-Oriented applications in Java for both native and web enviroments.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: C/C++
+    description: Proficent at developing system and network level applications in C/C++ 
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Python
+    description: Able to deveople a wide array of applications in Python, from Maching Leanring and Data Mining to Web Applications and Distributed Systems.
 
 #If you have certifications, talk about them here
 certifications:
-  - name: Certification 1
+  - name: Certitied Cool Guy
     topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
-
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
+      - How to be cool (Cool 101)
+      - How to seem like you're not trying to be cool. (Not trying is cool)
+      - How to be apethitic but still care. (Contradictions are cool)
+      - (Elective) The history of Coolness. (Histroy is cool)

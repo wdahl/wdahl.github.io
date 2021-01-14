@@ -1,13 +1,13 @@
 #LinkedIn
 #https://www.linkedin.com/in/{{LinkedInUsername}}/
-linkdin_username: /
+linkdin_username: william-dahl-22914516a
 
 #GitHub
 #https://github.com/{{GitHubUsername}}
-github_username: /
+github_username: wdahl
 
 #https://github.com/{{GitHubUsername}}/{{GitHubRepo}}
-github_repo: /
+github_repo: wdahl.github.io
 
 #The email you'd like people to contact you with.
-email: /
+email: wdahl@jahnelgroup.com
