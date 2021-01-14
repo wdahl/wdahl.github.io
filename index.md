@@ -1,7 +1,7 @@
 ---
 title: Will Dahl
 author: Will Dahl
-description: My personal website
+description: The Coolest Dev Around
 layout: default
 permalink: /
 ---
